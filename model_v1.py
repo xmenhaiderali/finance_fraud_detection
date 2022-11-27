@@ -10,3 +10,4 @@ def model3():
     pass
 
 print('model2 is performing best')
+print('model1 is performing best')
