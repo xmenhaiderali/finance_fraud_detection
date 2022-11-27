@@ -8,3 +8,5 @@ def model2():
 
 def model3():
     pass
+
+print('model2 is performing best')
